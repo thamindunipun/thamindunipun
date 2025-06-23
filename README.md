@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamindunipun&label=Profile%20views&color=0e75b6&style=flat" alt="thamindunipun" /> </p>
 
-- 🌱 I’m currently learning **Jupyter Notebook,Power BI**
+- 🌱 I’m currently learning **Jupyter Notebook,Power BI & MERN stack**
 
 - 📝 I regularly write articles on [https://medium.com/@thamidun998](https://medium.com/@thamidun998)
 
